@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/user1/Projects/go/hugotest/quickstart/content'
+let g:netrw_dirhist_7='/home/user1/.mutt'
+let g:netrw_dirhist_6='/home/user1/yay'
+let g:netrw_dirhist_5='/home/user1/Mail'
+let g:netrw_dirhist_4='/home/user1/Desktop/blog'
+let g:netrw_dirhist_3='/home/user1/.newsboat'
+let g:netrw_dirhist_2='/home/user1/Projects/go/snippetbox/ui/html'
+let g:netrw_dirhist_1='/home/user1/Downloads/IBJts/source/pythonclient/ibapi'
